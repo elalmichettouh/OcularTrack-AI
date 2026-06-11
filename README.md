@@ -1,10 +1,10 @@
-# OcularTrack-AI 👁️🚀
+# OcularTrack-AI 
 
 A high-performance, real-time ocular telemetry and anomaly detection engine powered by Computer Vision. This system builds a localized coordinate system for tracking pupil dynamics, measuring angular velocity, and capturing micro-saccadic anomalies via mathematical vector analysis.
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 * **Localized Coordinate Mapping:** Anchors a local $(0,0)$ reference system based on eye corner landmarks to cancel out global head motion artifacts.
 * **Angular Velocity Tracking:** Continuously monitors the rotational velocity of the pupil ($\omega$ in $\text{deg/s}$) across sequential frames using vector cross-product differentiation.
@@ -13,7 +13,7 @@ A high-performance, real-time ocular telemetry and anomaly detection engine powe
 
 ---
 
-## 📊 Technical Architecture & Logic
+## Technical Architecture & Logic
 
 The engine operates on a strict **Kinematics & Spatial Geometry Pipeline**:
 
