@@ -10,7 +10,7 @@ Usage
     python main.py
     python main.py --config custom_config.json   # (future extension hook)
 
-Author  : Senior AI & CV Staff Engineer
+Author  : CHETTOUH Elalmi Automation Engineer
 Version : 2.0.0
 """
 
