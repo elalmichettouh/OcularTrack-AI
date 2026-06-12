@@ -6,7 +6,7 @@ keeping ``engine.py`` free of rendering concerns (Single Responsibility).
 
 All colour constants use BGR ordering to match OpenCV's convention.
 
-Author  : Senior AI & CV Staff Engineer
+Author  : CHETTOUH Elalmi Automation Engineer
 Version : 2.0.0
 """
 
