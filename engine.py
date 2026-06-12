@@ -14,8 +14,8 @@ Responsibilities
 * Delegate logging to :class:`~logger.DataLogger`.
 * Guarantee deterministic resource release via :meth:`shutdown`.
 
-Author  : Senior AI & CV Staff Engineer
-Version : 2.0.0
+Author  : CHETTOUH Elalmi Automation Engineer
+
 """
 
 from __future__ import annotations
