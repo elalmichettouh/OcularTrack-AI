@@ -11,7 +11,7 @@ Design notes
 * ``CameraConfig``    — OpenCV VideoCapture settings.
 * ``EngineConfig``    — Top-level aggregate consumed by OcularTelemetryEngine.
 
-Author  : Senior AI & CV Staff Engineer
+Author  : Author  : CHETTOUH Elalmi Automation Engineer
 Version : 2.0.0
 """
 
