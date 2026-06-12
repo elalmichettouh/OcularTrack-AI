@@ -19,7 +19,7 @@ where  Δr = r − r'  is the incremental displacement.
 This avoids computing ``arctan2`` on every frame (O(1) trig) and remains
 numerically stable provided ``r_sq > r_sq_min_threshold``.
 
-Author  : Senior AI & CV Staff Engineer
+Author  : CHETTOUH Elalmi Automation Engineer
 Version : 2.0.0
 """
 
