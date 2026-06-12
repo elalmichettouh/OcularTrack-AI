@@ -183,4 +183,4 @@ OcularTrack-AI's modular architecture — particularly the decoupled `EyeMetrics
 
 ## 📄 License
 
-Elalmi CHETTOUH.
+
