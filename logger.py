@@ -13,7 +13,7 @@ Design decisions
 * Thread-safety is not required (single-producer model from the capture loop),
   but the append path is kept minimal to reduce capture-loop latency.
 
-Author  : Senior AI & CV Staff Engineer
+Author  : CHETTOUH Elalmi Automation Engineer
 Version : 2.0.0
 """
 
