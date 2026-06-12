@@ -51,9 +51,6 @@ $$
 
 ### 3. Numerical Stability Safeguards
 
-* If $|\vec{r}|^2 < r_{\text{sq\_min}}$ (iris sitting on the anchor), $\omega$ is clamped to `0.0` to avoid division-by-zero singularities.
-* If $\Delta t \le 0$ (clock anomalies / first frame), $\omega$ is clamped to `0.0`.
-* Tracker state (`prev_disp`) is reset whenever face detection is lost, preventing stale deltas from contaminating re-acquisition.
 - If $|\vec{r}|^2 < r_{\text{sq\_min}}$ (iris sitting on the anchor), $\omega$ is clamped to `0.0` to avoid division-by-zero singularities.
 - If $\Delta t \leq 0$ (clock anomalies / first frame), $\omega$ is clamped to `0.0`.
 - Tracker state (`prev_disp`) is reset whenever face detection is lost, preventing stale deltas from contaminating re-acquisition.
